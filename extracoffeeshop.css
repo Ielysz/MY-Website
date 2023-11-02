@@ -52,7 +52,7 @@ header
 #navbar ul
 {
  display: flex;
- margin-right: 260px;
+ margin-right: fixed;
 }
 
 #navbar ul li a
