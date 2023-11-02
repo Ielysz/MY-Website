@@ -54,7 +54,7 @@ header
 #navbar ul
 {
  display: flex;
- margin-right: fixed;
+ margin-right: 100%;
 }
 
 #navbar ul li a
